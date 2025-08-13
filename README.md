@@ -1,3 +1,6 @@
+📌 Note: This task is part of a structured internship to reinforce basic ML skills.
+It’s not meant to reflect my current skill level or portfolio quality.
+
 # 🐟 Fish Market Classification with KNN
 
 This project applies the **K-Nearest Neighbors (KNN)** algorithm to classify fish species based on physical measurements.  
